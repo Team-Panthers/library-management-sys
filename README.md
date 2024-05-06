@@ -1,6 +1,21 @@
 ### Library Management System
 
-    A command line application for a library management system built using python
+A command line application for a library management system built using python
+
+### Uml Diagrams
+
+- Use Case Diagram
+
+![LBMS Use Case vpd](https://github.com/Team-Panthers/library-management-sys/assets/119736310/5df7006e-dd67-4344-a3e3-0a7f891caf0f)
+
+
+- Class Diagram
+
+![class diagram vpd](https://github.com/Team-Panthers/library-management-sys/assets/119736310/8a3323ce-3cb3-4b1b-9c96-d1ad7d8d79a8)
+
+- Sequence diagram
+
+![Sequence diagram LBS](https://github.com/Team-Panthers/library-management-sys/assets/119736310/06904695-58bf-41af-966f-ef54c25cb9df)
 
 
 ### Details about the Library
