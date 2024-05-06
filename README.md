@@ -11,7 +11,8 @@ A command line application for a library management system built using python
 
 - Class Diagram
 
-![class diagram vpd](https://github.com/Team-Panthers/library-management-sys/assets/119736310/8a3323ce-3cb3-4b1b-9c96-d1ad7d8d79a8)
+![Photo from Fola](https://github.com/Team-Panthers/library-management-sys/assets/119736310/65756cff-4576-497b-9e3a-8f8314daf2e2)
+
 
 - Sequence diagram
 
