@@ -6,18 +6,16 @@ A command line application for a library management system built using python
 
 - Use Case Diagram
 
-![LBMS Use Case vpd](https://github.com/Team-Panthers/library-management-sys/assets/119736310/5df7006e-dd67-4344-a3e3-0a7f891caf0f)
+  ![image](https://github.com/Team-Panthers/library-management-sys/assets/119736310/5cea06c1-46d1-4eb4-8fdd-3b752be85553)
 
 
 - Class Diagram
-
-![Photo from Fola](https://github.com/Team-Panthers/library-management-sys/assets/119736310/65756cff-4576-497b-9e3a-8f8314daf2e2)
+![image](https://github.com/Team-Panthers/library-management-sys/assets/119736310/08e6017a-1f40-42d5-9561-69ba8860a7d8)
 
 
 - Sequence diagram
-![Sequence diagram LBS (2)](https://github.com/Team-Panthers/library-management-sys/assets/119736310/24d93275-3539-46c5-8493-8c7e093f2930)
 
-
+![image](https://github.com/Team-Panthers/library-management-sys/assets/119736310/2a3bc75a-c649-48e1-8e6a-40dcd3b8ae00)
 
 
 
