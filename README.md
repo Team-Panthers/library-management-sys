@@ -16,7 +16,8 @@ A command line application for a library management system built using python
 
 - Sequence diagram
 
-![Sequence diagram LBS](https://github.com/Team-Panthers/library-management-sys/assets/119736310/06904695-58bf-41af-966f-ef54c25cb9df)
+![Sequence diagram LBS](https://github.com/Team-Panthers/library-management-sys/assets/119736310/85c763ac-f154-40cc-a7b2-5e674e2bb120)
+
 
 
 ### Details about the Library
